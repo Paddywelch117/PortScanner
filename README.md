@@ -1,2 +1,3 @@
-# PortScanner
-A Basic port scanner to use on linux
+# Port Scanner
+
+This python code is used as a basic port scanner on linux for network analasys.
